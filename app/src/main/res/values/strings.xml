@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_answer">Правильно</string>
+    <string name="false_answer">Неправильно</string>
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+</resources>
